@@ -1,4 +1,4 @@
-# Auto Scaling Groups & Terraform Modules / AWS
+# Auto Scaling Groups & Terraform Modules / AWS - 1G1 - Team B
 
 ## Introduction
 In this project we will develop a solution for this task: https://moodle.fh-burgenland.at/mod/assign/view.php?id=356681 .
